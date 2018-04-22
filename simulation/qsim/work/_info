@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\acer\Desktop\Quartus 2\proyectos\contador\simulation\qsim
+vcontador
+Z1 I^V^nZ9CU55Y9?5VE9k5662
+Z2 V39nfZY>XMSG2S^907]X=_2
+Z3 dC:\Users\acer\Desktop\Quartus 2\proyectos\contador\simulation\qsim
+Z4 w1520461026
+Z5 8contador.vo
+Z6 Fcontador.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|contador.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 c1GV^gmV13nZWXUJeTKQB1
+!s85 0
+Z11 !s108 1520461027.504000
+Z12 !s107 contador.vo|
+!s101 -O0
+vcontador_vlg_check_tst
+!i10b 1
+Z13 !s100 VP[O[mB5iOOHnD4H^beX]3
+Z14 IlSHAnFU[iATaeoZ=aQe<[3
+Z15 VKN`ecfGkIOl2J>6DVhYEK1
+R3
+Z16 w1520461025
+Z17 8contador.vt
+Z18 Fcontador.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z19 !s108 1520461027.772000
+Z20 !s107 contador.vt|
+Z21 !s90 -work|work|contador.vt|
+!s101 -O0
+R9
+vcontador_vlg_sample_tst
+!i10b 1
+Z22 !s100 M8`dS=HPcA1YHCJ1dWIzZ1
+Z23 Io:V8<88F63bLCZPdVQBO72
+Z24 V<T_NWnHVDR36U3gUJT<o71
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
+vcontador_vlg_vec_tst
+!i10b 1
+Z25 !s100 :Bfhh1LaTYYR@MGUn6eW12
+Z26 IS[jM4<h38Ud;4Lk9ABOK[2
+Z27 Vg7eM`4C4en1cUe:c[RGT<3
+R3
+R16
+R17
+R18
+Z28 L0 189
+R7
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R9
